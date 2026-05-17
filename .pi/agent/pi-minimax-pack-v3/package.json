@@ -1,0 +1,43 @@
+{
+  "name": "pi-minimax-pack",
+  "version": "0.3.0",
+  "description": "MiniMax engineering pack for pi.dev — Transfer Knowledge philosophy (Level 2-3)",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "coding-agent"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./extensions/*": "./extensions/*.ts"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "skills": [
+      "./skills"
+    ],
+    "prompts": [],
+    "themes": []
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@mariozechner/pi-coding-agent": "^0.73.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint extensions/**/*.ts",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.49"
+  }
+}

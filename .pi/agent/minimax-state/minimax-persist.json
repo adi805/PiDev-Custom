@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "state": {
+    "schemaVersion": 1,
+    "validations": [],
+    "grinds": [
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\settings.json",
+        "lastGrindSent": "2026-05-08T22:01:28.388Z",
+        "grindCount": 0,
+        "lastGrindIteration": 0
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\git\\github.com\\adi805\\pi-minimax-pack\\extensions\\global-contract.ts",
+        "lastGrindSent": "2026-05-09T14:21:40.348Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_patch_minimax.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_syntax.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_grindmsg.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_finalize_upgrade.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_exact_patch.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_line_patch.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\git\\github.com\\adi805\\pi-minimax-pack\\README.md",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_patch_exact_current.py",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\git\\github.com\\adi805\\pi-minimax-pack\\docs\\HOW_IT_WORKS.md",
+        "lastGrindSent": "2026-05-10T04:12:34.346Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\git\\github.com\\adi805\\pi-minimax-pack\\docs\\AI_AGENT_GUIDE.md",
+        "lastGrindSent": "2026-05-10T04:21:50.768Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_virtual_validation.py",
+        "lastGrindSent": "2026-05-10T04:14:45.409Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_finish_pseudocmd_cleanup.py",
+        "lastGrindSent": "2026-05-10T04:21:50.768Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_remove_last_legacy_ref.py",
+        "lastGrindSent": "2026-05-10T04:21:50.768Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_status_report.py",
+        "lastGrindSent": "2026-05-10T04:28:51.665Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_readonly_status.py",
+        "lastGrindSent": "2026-05-10T04:33:26.357Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_readonly_status_line.py",
+        "lastGrindSent": "2026-05-10T04:33:26.357Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_add_failure_diagnosis.py",
+        "lastGrindSent": "2026-05-10T04:55:50.143Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_fix_diagnostic_string.py",
+        "lastGrindSent": "2026-05-10T04:55:50.143Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_add_language_guard.py",
+        "lastGrindSent": "2026-05-10T05:03:32.139Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\models.yml",
+        "lastGrindSent": "2026-05-10T12:45:27.166Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:\\Users\\acer\\.pi\\agent\\models.json",
+        "lastGrindSent": "2026-05-10T12:45:27.166Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "tmp_break_diagnostic_loop.py",
+        "lastGrindSent": "2026-05-10T13:19:55.034Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/PiDev-Custom/AGENTS.md",
+        "lastGrindSent": "2026-05-11T12:36:21.359Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/AGENTS.md",
+        "lastGrindSent": "2026-05-11T12:36:21.359Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/extensions/minimax-mcp/index.ts",
+        "lastGrindSent": "2026-05-11T09:45:23.860Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/extensions/minimax-vision/index.ts",
+        "lastGrindSent": "2026-05-11T11:49:20.310Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/settings.json",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 0,
+        "lastGrindIteration": 0
+      },
+      {
+        "path": "C:/Users/acer/.pi/.env",
+        "lastGrindSent": "2026-05-11T11:15:40.730Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/extensions/minimax-vision/README.md",
+        "lastGrindSent": "2026-05-11T09:45:23.860Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/extensions/minimax-vision/package.json",
+        "lastGrindSent": "2026-05-11T10:20:45.470Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/git/github.com/adi805/pi-minimax-pack/docs/AGENTS.md",
+        "lastGrindSent": "2026-05-11T13:01:12.744Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "C:/Users/acer/.pi/agent/git/github.com/adi805/pi-minimax-pack/extensions/global-contract.ts",
+        "lastGrindSent": "2026-05-11T13:01:12.744Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/SPEC.md",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/shared/types.ts",
+        "lastGrindSent": "2026-05-13T13:59:11.578Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/shared/constants.ts",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/shared/utils.ts",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/verification.ts",
+        "lastGrindSent": "2026-05-13T15:24:04.084Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/context.ts",
+        "lastGrindSent": "2026-05-13T13:59:11.578Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/index.ts",
+        "lastGrindSent": "2026-05-13T14:07:19.999Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/package.json",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/docs/AGENTS.md",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/README.md",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/.gitignore",
+        "lastGrindSent": "2026-05-13T13:42:11.090Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/skills/minimax-m2-self-evolution/SKILL.md",
+        "lastGrindSent": "2026-05-13T15:46:45.117Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/tsconfig.json",
+        "lastGrindSent": "2026-05-13T13:59:11.578Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/output.ts",
+        "lastGrindSent": "2026-05-13T14:07:19.999Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack-v3/extensions/learning.ts",
+        "lastGrindSent": "2026-05-13T14:07:19.999Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/extensions/global-contract.ts",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 0,
+        "lastGrindIteration": 0
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/package.json",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 0,
+        "lastGrindIteration": 0
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/tmp-verify-extension.cjs",
+        "lastGrindSent": "2026-05-13T16:19:25.064Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/bin/pi-minimax-update.bat",
+        "lastGrindSent": "2026-05-13T16:26:39.539Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/test/extension-runtime-smoke.cjs",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/test/snapshots/verification-failure-report.txt",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      },
+      {
+        "path": "D:/Estate/Pi_Project/pi-minimax-pack/test/verification-snapshot-eval.cjs",
+        "lastGrindSent": "2026-05-13T16:43:38.907Z",
+        "grindCount": 1,
+        "lastGrindIteration": 1
+      }
+    ],
+    "sessionChangedPaths": [
+      "D:/Estate/Pi_Project/PiDev-Custom/.gitignore"
+    ],
+    "sessionGrindIteration": 0,
+    "recentError": {
+      "kind": "provider_error",
+      "signature": "http:429",
+      "summary": "Provider returned HTTP 429",
+      "count": 4,
+      "firstSeen": "2026-05-13T16:43:40.703Z",
+      "lastSeen": "2026-05-13T16:43:50.852Z",
+      "blocked": true
+    },
+    "diagnosticCursor": null,
+    "task": {
+      "state": "IDLE",
+      "currentWorkstream": "unknown",
+      "approvedWorkstreams": [
+        "unknown"
+      ]
+    }
+  }
+}
